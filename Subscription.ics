@@ -47,4 +47,13 @@ SUMMARY:Amazon Prime Video $10 Due
 DESCRIPTION:Amazon Prime Video payment of $10 is due today.
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20250627-total@ttvleeroy.com
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:💳 Total Subscriptions Due: $31.99
+DESCRIPTION:This is your monthly total for subscriptions: $31.99.
+END:VEVENT
+
 END:VCALENDAR
